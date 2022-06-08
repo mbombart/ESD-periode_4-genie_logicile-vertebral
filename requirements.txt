@@ -12,3 +12,4 @@ plotly
 requests
 zipfile
 io
+zipfile

@@ -6,6 +6,8 @@ raw_data_config:
   random_state: 111
   name_file : 'column_3C.dat'
   chargement_data : "https://archive.ics.uci.edu/ml/machine-learning-databases/00212/vertebral_column_data.zip"
+  new_train_data_csv: data/raw/data.csv
+
 processed_data_config:
   train_data_csv: data/processed/vetebre_train.csv
   test_data_csv:  data/processed/vetebre_test.csv
