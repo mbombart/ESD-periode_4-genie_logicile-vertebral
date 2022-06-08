@@ -10,4 +10,3 @@ evidently
 gunicorn
 plotly
 requests
-io
